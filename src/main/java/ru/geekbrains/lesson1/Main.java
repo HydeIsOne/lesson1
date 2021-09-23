@@ -1,6 +1,6 @@
 package ru.geekbrains.lesson1;
 
-public class MainApp {
+public class Main {
     public static void main(String[] args) {
         System.out.println("test");
     }
